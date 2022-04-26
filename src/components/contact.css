@@ -1,0 +1,24 @@
+/*COLORES
+moradoOscuro #4C446A
+moradoClaro #5A517D
+naranja #E6AD8C
+blanco #ffffff
+gris #D6D5DB
+*/
+
+.contact{
+    display: flex;
+}
+
+.contact__info {
+    display: flex;
+    flex-direction: column;
+}   
+
+
+.contact__img {
+        border-radius: 50%;  
+        width: 200px;
+        height: 200px;
+ 
+}
